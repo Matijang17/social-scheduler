@@ -11,9 +11,5 @@ module.exports = {
         ],
       },
     ]
-  },
-  serverOptions: {
-    key: './localhost-key.pem',
-    cert: './localhost.pem',
   }
 }
