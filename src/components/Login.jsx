@@ -47,8 +47,8 @@ export default function Login() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-teal-900 p-4">
-      <div className="w-full max-w-md bg-white rounded-xl shadow-xl p-8">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-black via-gray-900 to-violet-800 p-4">
+    <div className="w-full max-w-md bg-white rounded-xl shadow-xl p-8">
         
 
         <h2 className="text-2xl font-semibold text-gray-800 mb-1">Log in</h2>
